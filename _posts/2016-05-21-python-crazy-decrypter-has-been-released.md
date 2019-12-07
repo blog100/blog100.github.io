@@ -37,4 +37,4 @@ Type Decrypt  : md5
 End time      : 06:53:06
 ```
 
-For more you can checkout on our repository: [https://github.com/blog100/deviation](https://github.com/blog100/deviation)
+For more you can checkout on our repository: [https://github.com/blog100/blog100.github.io](https://github.com/blog100/blog100.github.io)

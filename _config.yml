@@ -1,9 +1,9 @@
-title: Stack Problems
+title: Data Stack Problems
 description: My Personal Stack Problems
 author: Prabhjot Singh
-github: https://github.com/blog100
-about: I'm Learning for DataScience Python and other Languages. I've made quite a few web apps, especially on .Net.
-disqus_shortname: stackproblems
+github: https://blog100.github.io
+about: I'm full stack developer and Learning for DataScience, Python and other Languages. I've worked on few web apps.
+disqus_shortname: blog100-github-io
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -24,7 +24,7 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/blog100"
+      link: "https://blog100.github.io"
 
 share:
   twitter_username: github.io

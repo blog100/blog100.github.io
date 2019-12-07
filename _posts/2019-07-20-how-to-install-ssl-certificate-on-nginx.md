@@ -99,7 +99,7 @@ HS3rjNhHOqLvNnz0OpqxCg0=
 
 #### 2. Put that `BEGIN CERTIFICATE REQUEST` into your SSL Provider
 
-![csr config](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/_posts/csr.png)
+![csr config](https://raw.githubusercontent.com/blog100/blog100.github.io/master/static/img/_posts/csr.png)
 
 - For example, I using rumahweb provider.
 - Choose domain validation _(in this method, you can using email, domain, dns, or etc)_.
