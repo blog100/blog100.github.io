@@ -49,6 +49,9 @@ a:hover {
 .sidebar-nav li {
   margin: 0;
   list-style: none;
+  font-size:medium;
+  font-weight: bold;
+
 }
 .sidebar-nav li::before {
   content: "»";
