@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: #008cc9;
 }
 a:hover {
   color: #B3B3B3;
@@ -83,7 +83,7 @@ footer {
 
 /* Left column */
 div.col-sm-3 {
-  margin-top: 100px;
+  margin-top: 15px;
   font-size: 11px;
   color: #666;
 }
