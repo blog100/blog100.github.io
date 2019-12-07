@@ -115,29 +115,33 @@ layout: compress
       <div class="col-sm-3">
         <div class="fixed-condition">
 
-            <div class="search" id="js-search">
-                <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
-                <ul class="search__results" id="js-search__results"></ul>
-              </div>
-              <hr />
-              <ul class="sidebar-nav">
-                <strong>Navigation</strong>
-                <li><a href="/">Home</a></li>
-                {% for i in site.urls %}
-                  <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
-                {% endfor %}
-              </ul>
+            
 
           <h1 class="author-name"><a href="/">{{ site.author }}</a></h1>
+          <hr />
+          <div class="search" id="js-search">
+              <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+              <ul class="search__results" id="js-search__results"></ul>
+            </div>
+           
           {% if site.about %}
 
           <div style="width: inherit;" class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" 
           data-type="vertical" data-theme="light" data-vanity="prabhjot325"><a class="LI-simple-link"
           href='https://in.linkedin.com/in/prabhjot325?trk=profile-badge'>Prabhjot Singh</a></div>
           
+          <ul class="sidebar-nav">
+              <strong>Navigation</strong>
+              <li><a href="/">Home</a></li>
+              {% for i in site.urls %}
+                <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
+              {% endfor %}
+            </ul>
+            
             <div class="profile-about">
               {{ site.about }}
             </div>
+            
           {% endif %}
           <div class="social">
             <ul>
