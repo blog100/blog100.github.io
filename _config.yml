@@ -48,6 +48,9 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
+plugins:
+  - jekyll-paginate
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
