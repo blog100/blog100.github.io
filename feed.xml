@@ -3,10 +3,10 @@
   <channel>
     <title>Data Stack</title>
     <description>Data Stack</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2020 17:12:55 +0530</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2020 17:12:55 +0530</lastBuildDate>
+    <link>https://blog100.github.io/</link>
+    <atom:link href="https://blog100.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jan 2020 18:46:52 +0530</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 18:46:52 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -278,8 +278,8 @@ ubuntu@ip-xxx-xx-x-xxx:~$ sudo systemctl restart gunicorn  # if you have gunicor
 To check your keys chain is correct or not, you can checkout at https://whatsmychaincert.com/?mydomain.com&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 04:50:00 +0530</pubDate>
-        <link>http://localhost:4000/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</link>
-        <guid isPermaLink="true">http://localhost:4000/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</guid>
+        <link>https://blog100.github.io/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/nginx/server/ssl/security/2019/07/20/how-to-install-ssl-certificate-on-nginx.html</guid>
         
         
         <category>nginx</category>
@@ -365,8 +365,8 @@ To check your keys chain is correct or not, you can checkout at https://whatsmyc
 &lt;p&gt;&lt;em&gt;Original source:&lt;/em&gt; &lt;a href=&quot;https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/&quot;&gt;&lt;em&gt;https://tryolabs.com/blog/2016/12/20/top-10-python…&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2016 17:04:10 +0530</pubDate>
-        <link>http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
+        <link>https://blog100.github.io/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
         
         
         <category>python</category>
@@ -422,8 +422,8 @@ To check your keys chain is correct or not, you can checkout at https://whatsmyc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 02:13:45 +0530</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/11/get-month-name-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/11/get-month-name-cf.html</guid>
+        <link>https://blog100.github.io/python/codefights/2016/06/11/get-month-name-cf.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/codefights/2016/06/11/get-month-name-cf.html</guid>
         
         
         <category>python</category>
@@ -480,8 +480,8 @@ Output: 0
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 02:09:03 +0530</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
+        <link>https://blog100.github.io/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html</guid>
         
         
         <category>python</category>
@@ -555,8 +555,8 @@ Finally, all the new strings are concatenated together in the same order and a n
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 11 Jun 2016 01:34:23 +0530</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</guid>
+        <link>https://blog100.github.io/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html</guid>
         
         
         <category>python</category>
@@ -650,8 +650,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;p&gt;Thanks to &lt;strong&gt;GOD&lt;/strong&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 May 2016 02:47:54 +0530</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</guid>
+        <link>https://blog100.github.io/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html</guid>
         
         
         <category>python</category>
@@ -706,8 +706,8 @@ Expected Output: &quot;The MAGIC words are fiz buzz and plaf&quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 22 May 2016 02:40:03 +0530</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/22/notpaired-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/22/notpaired-cf.html</guid>
+        <link>https://blog100.github.io/python/codefights/2016/05/22/notpaired-cf.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/codefights/2016/05/22/notpaired-cf.html</guid>
         
         
         <category>python</category>
@@ -764,8 +764,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 22 May 2016 02:34:23 +0530</pubDate>
-        <link>http://localhost:4000/python/codefights/2016/05/22/reverse-bit-cf.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/codefights/2016/05/22/reverse-bit-cf.html</guid>
+        <link>https://blog100.github.io/python/codefights/2016/05/22/reverse-bit-cf.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/codefights/2016/05/22/reverse-bit-cf.html</guid>
         
         
         <category>python</category>
@@ -791,8 +791,8 @@ x reversed as described above.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 21 May 2016 13:02:04 +0530</pubDate>
-        <link>http://localhost:4000/python/security/2016/05/21/python-simple-ciphertext.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/security/2016/05/21/python-simple-ciphertext.html</guid>
+        <link>https://blog100.github.io/python/security/2016/05/21/python-simple-ciphertext.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/security/2016/05/21/python-simple-ciphertext.html</guid>
         
         
         <category>python</category>
@@ -835,8 +835,8 @@ End time      : 06:53:06
 &lt;p&gt;For more you can checkout on our repository: &lt;a href=&quot;https://github.com/blog100/blog100.github.io&quot;&gt;https://github.com/blog100/blog100.github.io&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 May 2016 12:55:20 +0530</pubDate>
-        <link>http://localhost:4000/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
-        <guid isPermaLink="true">http://localhost:4000/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
+        <link>https://blog100.github.io/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</link>
+        <guid isPermaLink="true">https://blog100.github.io/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html</guid>
         
         
         <category>python</category>
